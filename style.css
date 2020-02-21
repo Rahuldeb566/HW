@@ -180,7 +180,65 @@ section{
 
     .half{
         width: 40%;
-        margin-left: 50px;
+        margin-left: 40px;
+    }
+    #intro{
+        width: 30%;
+        margin-top: 40px;
+        margin-left: 60px;
+        
+    }
+    
+    .half img{
+        width: 90%;
+        margin-top: 50px;
+        
+    }
+
+    #bio{
+    width: 30%;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+#img2{
+    margin-left: 50px;
+    width: 40%;
+}
+
+.top{
+    height: 250px;
+}
+
+.middle{
+    height: 250px;
+}
+
+.latest-work{
+    height: 250px;
+}
+
+.footer{
+    height: 300px;
+}
+    
+}
+
+@media screen and (max-width: 900px){
+    *{
+        font-size: 10px;
+    }
+
+
+
+    .msg{
+        overflow: scroll;
+        font-size: 15px;
+    }
+
+    .half{
+        width: 40%;
+        margin-left: 40px;
     }
     #intro{
         width: 30%;

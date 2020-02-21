@@ -180,7 +180,7 @@ section{
 
     .half{
         width: 40%;
-        margin-left: 60px;
+        margin-left: 50px;
     }
     #intro{
         width: 30%;
@@ -190,7 +190,8 @@ section{
     }
     
     .half img{
-        width: 100%;
+        width: 90%;
+        margin-top: 50px;
         
     }
 
